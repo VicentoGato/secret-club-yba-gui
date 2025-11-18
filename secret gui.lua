@@ -1,3 +1,6 @@
+--creators:
+--Piscar & VicentoGato
+
 -- Secret Club GUI v1.2
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
